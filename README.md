@@ -5,11 +5,11 @@ Acá voy a ir subiendo prácticas, apuntes y ejercicios relacionados al uso de F
 
 ---
 Información del curso
-Curso: Figma
-Día y horario de las 2 sesiones en vivo: 26/01 y 28/01 de 19 a 21 hs
-Link de meet de acceso a las sesiones:
-Podés conectarte a las sesiones desde [Link de sesiones] (http://meet.google.com/pnd-uzqm-gbm).
-No se si no estan en el curdo puedan ingresar, será cuestión de intentarlo.
+Curso: Figma   
+Día y horario de las 2 sesiones en vivo: 26/01 y 28/01 de 19 a 21 hs   
+Link de meet de acceso a las sesiones:   
+Podés conectarte a las sesiones desde [Link de sesiones] (http://meet.google.com/pnd-uzqm-gbm).   
+No se si no estan en el curdo puedan ingresar, será cuestión de intentarlo.   
 
 
 ##👥 Dupla pedagógica a cargo del curso
