@@ -87,5 +87,16 @@ Figma es súper flexible, se puede usar de varias maneras:
 
 - Guardar prácticas del curso  
 - Tener ejemplos claros de uso de Figma  
-- Documentar lo aprendido paso a paso  
+- Documentar lo aprendido paso a paso
+
+- La idea de este repositorio es compartir lo aprendido y ayudarnos entre todos.  
+
+Que este sea solo el comienzo de muchos logros más 🚀
+
+
+
+
+
+
+
 
