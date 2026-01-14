@@ -108,9 +108,15 @@ Download ZIP
 # Opción 2️⃣ – Clonar el repo (recomendada)
 
 Si quieren tenerlo en la PC y aprender Git:   
+1. elige un directorio donde quieres que éste el clone de github.   
+   al crear el clon ya lo genera dentro de un directorio.
+2. ve a la terminal y escribe:
+
+``` bash
 
 git clone https://github.com/Mirtyta/Figma-cursoVerano.git
 
+```
 
 👉 Eso les baja todo el repo.   
 
