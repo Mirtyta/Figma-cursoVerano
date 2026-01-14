@@ -109,7 +109,7 @@ Download ZIP
 
 Si quieren tenerlo en la PC y aprender Git:   
 
-git clone https://github.com/tu-usuario/tu-repo.git
+git clone https://github.com/Mirtyta/Figma-cursoVerano.git
 
 
 👉 Eso les baja todo el repo.   
