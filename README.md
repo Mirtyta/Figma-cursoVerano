@@ -89,9 +89,54 @@ Figma es súper flexible, se puede usar de varias maneras:
 - Tener ejemplos claros de uso de Figma  
 - Documentar lo aprendido paso a paso
 
+
+### Estructura Directorios...
+la estructura se irá viendo a medida que avancemos con el curso, por el momento sólo aparecerá Introducción. (13/02/2026) (Primer Commit)
+
+# 📥 ¿Cómo lo bajo a mi pc?
+Opción 1️⃣ – Descargar sin Git (la más simple)
+
+Para solo leer el material:   
+Entran a tu repo en GitHub   
+Botón Code   
+Download ZIP   
+
+✔️ Fácil
+❌ No reciben actualizaciones automáticas
+
+
+# Opción 2️⃣ – Clonar el repo (recomendada)
+
+Si quieren tenerlo en la PC y aprender Git:   
+
+git clone https://github.com/tu-usuario/tu-repo.git
+
+
+👉 Eso les baja todo el repo.   
+
+# 🔄 ¿Cómo se bajan las actualizaciones?
+
+A medida que avanzamos en el curso, pueden bajar las actualizaciones con pull:
+
+Sólo tiene que pararse en el directorio y desde la terminal poner:
+
+``` bash
+
+git pull
+
+```
+
+👉 Git trae las novedades y actualiza los archivos.
+
 - La idea de este repositorio es compartir lo aprendido y ayudarnos entre todos.  
 
 Que este sea solo el comienzo de muchos logros más 🚀
+
+---
+
+
+
+
 
 
 
